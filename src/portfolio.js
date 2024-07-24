@@ -20,8 +20,8 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Shivang Singh",
-  title: "Hi all, I'm Shivang",
+  username: "Saumya Singh",
+  title: "Hi all, I'm Saumya",
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs  and some other cool libraries and frameworks."
   ),
@@ -33,9 +33,9 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/shivang-singh-mm",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "shivangsingh2240@gmail.com",
+  // github: "https://github.com/shivang-singh-mm",
+  linkedin: "https://www.linkedin.com/in/saumys22/",
+  gmail: "saumys22@gmail.com",
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7",
   // medium: "https://medium.com/@saadpasta",
@@ -129,9 +129,9 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "United College Of Enginnering and Research",
+      schoolName: "National Institute of Technology Delhi",
       subHeader: "Bachelor of technology in Computer Science",
-      duration: "July 2021 - July 2025",
+      // duration: "July 2021 - July 2025",
     },
   ]
 };
@@ -347,8 +347,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+91 9519761312",
-  email_address: "shivangsingh2240@gmail.com"
+  number: "+91 9598028672",
+  email_address: "saumys22@gmail.com"
 };
 
 // Twitter Section
